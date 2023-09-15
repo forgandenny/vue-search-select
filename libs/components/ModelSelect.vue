@@ -48,7 +48,7 @@
         @mousedown="mousedownItem"
         @mouseenter="pointerSet(idx)"
       >
-        {{ option.text }}
+        <span v-html="option.text"/>
       </div>
     </div>
   </div>
