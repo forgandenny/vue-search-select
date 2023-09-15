@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moreta/vue-search-select.git"
+    "url": "git+https://github.com/forgandenny/vue-search-select.git"
   },
   "scripts": {
     "build:libs": "pnpm -C libs run build",
